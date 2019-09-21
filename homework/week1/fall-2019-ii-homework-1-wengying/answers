@@ -1,0 +1,5 @@
+java edu.nyu.cs9053.homework1.Marguerite 
+javac -sourcepath src/main/java src/main/java/edu/nyu/cs9053/homework1/Ashley.java
+javac -d build Rolland.java
+javac Fatimah.java
+java -classpath output edu.nyu.cs9053.Dane
